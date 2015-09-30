@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui.commands.OpenRunConfigurations",1443107553169
+error,log,,,"No ELF file path has been selected.",1443107560642
+error,log,,,"Expected base address of system ID component is undefined.",1443107560658
+error,log,,,"No ELF file path has been selected.",1443107560689
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443107560705
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443107565166
+executed,command,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui.commands.OpenRunConfigurations",1443107565182
+executed,command,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui.commands.RunLast",1443107568474
+error,log,,,"Project test does not exist. Please check that your launch configuration specifies a valid project in your workspace.",1443107568489
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443107568520
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443107572592
+error,log,,,"No ELF file path has been selected.",1443107574870
+error,log,,,"Expected base address of system ID component is undefined.",1443107574870
+error,log,,,"No ELF file path has been selected.",1443107574901
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443107574932
+error,log,,,"No ELF file path has been selected.",1443107576009
+error,log,,,"No ELF file path has been selected.",1443107578177
+error,log,,,"Expected base address of system ID component is undefined.",1443107578193
+error,log,,,"No ELF file path has been selected.",1443107578208
+error,log,,,"No ELF file path has been selected.",1443107578224
+error,log,,,"Expected base address of system ID component is undefined.",1443107578240
+error,log,,,"No ELF file path has been selected.",1443107578255
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443107583747
+executed,command,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui.commands.OpenRunConfigurations",1443107583747
+executed,command,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui.commands.RunLast",1443107585681

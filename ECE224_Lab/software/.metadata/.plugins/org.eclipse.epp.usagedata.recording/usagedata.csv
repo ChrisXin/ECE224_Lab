@@ -1,0 +1,4 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,com.altera.debug.cdi.gdb.plugin,10.1.0.153,"com.altera.debug.cdi.gdb.plugin",1443107656582
+stopped,bundle,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch",1443107656582
+stopped,bundle,org.eclipse.cdt.debug.mi.core,6.0.0.200909110608,"org.eclipse.cdt.debug.mi.core",1443107656582

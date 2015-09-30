@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Project test does not exist. Please check that your launch configuration specifies a valid project in your workspace.",1443107585697
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443107585712
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443107590049
+error,log,,,"No ELF file path has been selected.",1443107597070
+error,log,,,"Expected base address of system ID component is undefined.",1443107597070
+error,log,,,"No ELF file path has been selected.",1443107597101
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443107597116
+error,log,,,"No ELF file path has been selected.",1443107603060
+error,log,,,"Expected base address of system ID component is undefined.",1443107603060
+error,log,,,"No ELF file path has been selected.",1443107603091
+error,log,,,"No ELF file path has been selected.",1443107614012
+error,log,,,"Expected base address of system ID component is undefined.",1443107614027
+error,log,,,"No ELF file path has been selected.",1443107614043
+error,log,,,"No ELF file path has been selected.",1443107615338
+error,log,,,"Expected base address of system ID component is undefined.",1443107615353
+error,log,,,"No ELF file path has been selected.",1443107615369
+error,log,,,"No ELF file path has been selected.",1443107620876
+error,log,,,"Expected base address of system ID component is undefined.",1443107620876
+error,log,,,"No ELF file path has been selected.",1443107620907
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443107626758
+executed,command,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui.commands.OpenRunConfigurations",1443107626758
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443107653653
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443107655821
+closed,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443107655915
+stopped,bundle,org.eclipse.cdt.debug.mi.ui,6.0.0.200909110608,"org.eclipse.cdt.debug.mi.ui",1443107656582

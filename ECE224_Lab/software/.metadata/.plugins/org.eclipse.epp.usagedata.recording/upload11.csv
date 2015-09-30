@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443106205030
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443106893931
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1443106896037
+started,bundle,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring",1443106905132
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443106905226
+closed,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1443106907811
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443106907905
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1443106907905
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1443106907905
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443106913131
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443106935720
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443106938028
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443107457351
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443107461610
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1443107497179
+error,log,,,"SOPC design not set.",1443107547850
+error,log,,,"CPU module not set.",1443107547865
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1443107547865
+error,log,,,"CPU architecture type not set. ",1443107547881
+error,log,,,"CPU master group not set.",1443107547881
+error,log,,,"SOPC design not set.",1443107547881
+error,log,,,"CPU module not set.",1443107547896
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1443107547896
+error,log,,,"CPU architecture type not set. ",1443107547896
+error,log,,,"CPU master group not set.",1443107547912
